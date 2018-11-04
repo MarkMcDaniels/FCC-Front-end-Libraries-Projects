@@ -1,0 +1,18 @@
+bass https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/ROLAND%20RHY55/28[kb]rh55-001.wav.mp3
+
+snare https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/ROLAND%20RHY55/37[kb]rh55-005.wav.mp3
+
+cymbol https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/ROLAND%20RHY55/10[kb]rh55-010.wav.mp3
+
+high hat jingle https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/ROLAND%20RHY55/46[kb]rh55-014.wav.mp3
+
+popping (tom?) https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/ROLAND%20RHY55/2[kb]rh55-018.wav.mp3
+
+low tom https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/ROLAND%20RHY55/46[kb]rh55-020.wav.mp3
+
+mid tom https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/ROLAND%20RHY55/26[kb]rh55-026.wav.mp3
+
+xilo https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/ROLAND%20RHY55/12[kb]rh55-022.wav.mp3
+
+wood block https://sampleswap.org/samples-ghost/DRUMS%20(FULL%20KITS)/ROLAND%20RHY55/10[kb]rh55-023.wav.mp3
+
