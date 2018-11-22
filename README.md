@@ -21,3 +21,9 @@ The 5 projects for FCC's front end library certification.
     Wrote the drum kit twice. I bifurcated the flow by click, and key events. It wasn't updating the display way I had hoped. If you flipped back and forth from clicking to keying, it would not render properely. To avoid this I built all my listeners in the mounting phase. This solved that issue. Learned a lot.
 
     Built with React, and Sass.
+
+
+# Project 4 Javascript calculator
+
+    Built with React, Redux, Grid, and Flex. I had a difficult time getting the syntax for grid-template-areas to work in sass. I believe it is solved by single spaced strings without a return. Also, the naming conventions in areas cannot be set up in strange ways. They have to be blocks, not tetris pieces. 
+    The names of the elements need to be fairly unique if you have to manage lots of cells that overlap in different areas.
